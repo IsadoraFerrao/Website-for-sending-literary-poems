@@ -1,0 +1,21 @@
+.even {
+  background-color:#edf5ff;
+}
+
+tr:nth-child(even) {
+    background-color: #edf5ff;
+}
+
+tr:hover {
+  background-color:#3d80df;
+  color: #fff;
+}
+
+thead tr:hover {
+  background-color: transparent;
+  color: inherit;
+}
+
+
+
+

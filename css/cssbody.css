@@ -1,0 +1,42 @@
+
+	#caixa {
+	width:860px;
+	height:160px;
+	color:white;
+	
+	
+	
+	}
+
+	#tudo { 
+		background:#FFFFFF; 
+		width: 860px;
+		margin: auto;
+		height: auto;
+		opacity:0.920;
+		-moz-opacity: 0.920;
+		filter: alpha(opacity=920);
+		overflow:auto;
+		min-height:650px;
+		border-radius:40px;
+		
+	}
+	
+   #conteudo {
+  border: none;
+  border: 0px;
+  margin: 0px;
+  margin-top: 50px;
+  padding: 0px;
+  font: 67.5% 'Lucida Sans Unicode', 'Bitstream Vera Sans', 'Trebuchet Unicode MS', 'Lucida Grande', Verdana, Helvetica, sans-serif;
+  font-size: 14px;
+  font-weight: #339999;
+  width: auto;
+ 
+}
+
+	#wowslider-container1 {
+	
+		width:100px;
+		margin:10px;
+		padding:100px;
